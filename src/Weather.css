@@ -1,0 +1,84 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", sans-serif;
+  background: url('/background.jpg') no-repeat center center/cover;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.weather-container {
+  display: flex;
+  width: 80%;
+  max-width: 900px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 40px;
+  justify-content: space-between;
+  color: white;
+}
+
+.left-panel, .right-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.weather-icon {
+  width: 80px;
+  margin-bottom: 20px;
+}
+
+.temp {
+  font-size: 48px;
+  margin: 10px 0;
+}
+
+.description, .location, .humidity {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.search-input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.search-button {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: #ffffff80;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.search-button:hover {
+  background-color: #ffffffcc;
+}
+
+.recent-search p {
+  margin: 5px 0;
+  color: #e0e0e0;
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #ccc;
+}
