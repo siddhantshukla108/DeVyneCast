@@ -1,10 +1,10 @@
-# 🌦️ WeatherSphere — Live Weather Forecast App
+# 🌦️ DeVyneCast — Live Weather Forecast App
 
-**🌐 Website:** [Visit Live Demo](https://your-live-demo-link.com)
+**🌐 Website:** [Visit Live Demo](https://devynecast.netlify.app/)
 
 ## 🧭 About the App
 
-WeatherSphere is a sleek and responsive weather forecast app that provides real-time weather updates for any city worldwide. It's designed for users who need accurate weather information on-the-go with an elegant UI.
+DeVyneCast is a sleek and responsive weather forecast app that provides real-time weather updates for any city worldwide. It's designed for users who need accurate weather information on-the-go with an elegant UI.
 
 ### 🔍 Why use this app?
 
@@ -30,7 +30,7 @@ WeatherSphere is a sleek and responsive weather forecast app that provides real-
 - 🌐 Responsive layout (mobile + desktop)
 - 📊 Temperature, humidity, wind speed & more
 - 🎨 Glassmorphism UI design
-- 🌙 Dark/Light mode (coming soon!)
+- 🌙 Dark/Light mode 
 
 ---
 
@@ -63,7 +63,7 @@ WeatherSphere is a sleek and responsive weather forecast app that provides real-
 
 ## 📞 Contact Me
 
-📧 **Email:** yourname@example.com  
+📧 **Email:** shuklasiddhant365@gmail.com  
 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
 💼 **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-linkedin)  
 🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
