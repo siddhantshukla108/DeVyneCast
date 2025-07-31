@@ -1,13 +1,72 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
+    <title>DeVyneCast</title>
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-KJPPDBRLMZ"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-KJPPDBRLMZ");
+    </script>
+
+    <link rel="icon" href="images/4.jpg" />
+    <link rel="stylesheet" href="src/assets/style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://momentjs.com/downloads/moment.min.js"></script>
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    <div class="background-image">
+      <div class="glass-card">
+        <div class="left-info">
+          <div class="weather-icon">
+            <img id="weather-icon" src="" alt="Weather Icon" />
+          </div>
+          <div class="temperature" id="temperature">--°C</div>
+          <div class="location" id="city-name">Loading...</div>
+          <div class="date-time" id="date">--</div>
+          <div class="details" id="description">--</div>
+          <div class="other-info" id="other-info">--</div>
+          <canvas id="forecastChart"></canvas>
+        </div>
+        <div class="right-panel">
+          <!-- Theme Toggle Section -->
+          <div class="toggle-section">
+            <label class="switch">
+              <input type="checkbox" id="theme-toggle" />
+              <span class="slider round"></span>
+            </label>
+            <span class="toggle-label"></span>
+          </div>
+
+          <!-- City Input Section -->
+          <input type="text" id="search-box" placeholder="Enter city name" />
+          <button
+            onclick="weatherFn(document.getElementById('search-box').value)"
+          >
+            Search
+          </button>
+          <button onclick="getWeatherByLocation()">📍 Use My Location</button>
+
+          <!-- Recent Section -->
+          <div class="recent">
+            <h4>Recent Searches</h4>
+            <ul id="recent-list"></ul>
+          </div>
+
+          <div class="developer">Developed by Siddhant</div>
+        </div>
+      </div>
+    </div>
+    <script src="src/assets/script.js"></script>
   </body>
 </html>
