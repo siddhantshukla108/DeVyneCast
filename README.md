@@ -46,10 +46,7 @@ DeVyneCast is a sleek and responsive weather forecast app that provides real-tim
 
 ## 🧭 Future Enhancements
 
-- 🔁 Refresh button for live update
-- 🌐 Geo-location support
-- 🌑 Dark/Light mode toggle
-- 🔍 Search history or recent cities
+- 🤖 A Chat-Bot for real time suggestions
 - 📱 Convert into PWA (Progressive Web App)
 - 🧪 Unit tests with Vitest
 
@@ -64,9 +61,9 @@ DeVyneCast is a sleek and responsive weather forecast app that provides real-tim
 ## 📞 Contact Me
 
 📧 **Email:** shuklasiddhant365@gmail.com  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-💼 **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-linkedin)  
-🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+💼 **LinkedIn:** [your-linkedin](https://www.linkedin.com/in/siddhant-shukla108/) 
+🐦 **Twitter:** [@yourhandle](https://x.com/siddhant_shuk1a)  
+🌍 **Portfolio:** [your-portfolio.com](https://siddhantshukla-portfolio.netlify.app/)
 
 ---
 
