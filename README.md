@@ -61,7 +61,7 @@ DeVyneCast is a sleek and responsive weather forecast app that provides real-tim
 ## 📞 Contact Me
 
 📧 **Email:** shuklasiddhant365@gmail.com  
-💼 **LinkedIn:** [siddhant-shukla108](https://www.linkedin.com/in/siddhant-shukla108/) 
+💼 **LinkedIn:** [siddhant-shukla108](https://www.linkedin.com/in/siddhant-shukla108/) <br/>
 🐦 **Twitter:** [siddhant_shuk1a](https://x.com/siddhant_shuk1a)  
 🌍 **Portfolio:** [siddhantshukla-portfolio](https://siddhantshukla-portfolio.netlify.app/)
 
