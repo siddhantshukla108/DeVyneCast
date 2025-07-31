@@ -2,6 +2,11 @@
 
 **🌐 Website:** [Visit Live Demo](https://devynecast.netlify.app/)
 
+## 🌤️ Weather App Preview
+
+![Weather App Preview](./poster.png)
+
+
 ## 🧭 About the App
 
 DeVyneCast is a sleek and responsive weather forecast app that provides real-time weather updates for any city worldwide. It's designed for users who need accurate weather information on-the-go with an elegant UI.
