@@ -59,7 +59,7 @@ DeVyneCast is a sleek and responsive weather forecast app that provides real-tim
 
 ## 🎥 Demo Video
 
-▶️ [Watch the Demo](https://drive.google.com/file/d/1FvlhsDzIhRKXhlRRbIuxkSAcApNZn9bH/view?usp=drivesdk)
+▶️ [Watch the Demo](https://drive.google.com/file/d/1GsX1_hPxBhw6FiJ9HWkqFptMu4TsKG7U/view?usp=drivesdk)
 
 ---
 
