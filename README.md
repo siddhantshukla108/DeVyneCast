@@ -57,6 +57,48 @@ DeVyneCast is a sleek and responsive weather forecast app that provides real-tim
 
 ---
 
+## 📦 Installation
+
+1. **Clone the repository**
+
+```bash
+
+https://github.com/siddhantshukla108/DeVyneCast.git
+cd DeVyneCast
+
+```
+
+2. **Install dependencies**
+
+```bash
+
+npm install
+
+```
+
+3. **Start the development server**
+
+```bash
+
+npm run dev
+
+```
+
+---
+
+## 🔑 Environment Setup
+
+Create a file called `.env` in the root directory and add your OpenWeatherMap API key:
+
+```env
+
+
+VITE_WEATHER_API_KEY="YOUR_API_KEY"
+
+
+---
+
+
 ## 🎥 Demo Video
 
 ▶️ [Watch the Demo](https://drive.google.com/file/d/1GsX1_hPxBhw6FiJ9HWkqFptMu4TsKG7U/view?usp=drivesdk)
