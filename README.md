@@ -90,7 +90,11 @@ npm run dev
 
 Create a file called `.env` in the root directory and add your OpenWeatherMap API key:
 
+```bash
+
 VITE_WEATHER_API_KEY=your_api_key_here
+
+```
 
 
 ## 🎥 Demo Video
